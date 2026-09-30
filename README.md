@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently learning C#, HTML, Python and C++
-i'm making mods for ksp
+i'm making mods for ksp 
+i like vibecoding **some** fun mods(not my Raymarched Plume Trails!)
